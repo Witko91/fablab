@@ -1,8 +1,11 @@
 ## fablab
 
-#prova 
+#logo longboard dancing 
 
-**mannaggia a me**
+**Fasi:**
 
-- ciao
-- ciaociao
+- creazione cerchio
+- conversione in tracciato dell'immagine
+- allineamento oggetti
+
+
